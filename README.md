@@ -1,9 +1,9 @@
+## I'm a beginner Web developer
+## Для большего понимания моей информации, необходимо нажать на картинку снизу
 [![Header](https://github.com/1yuken/1yuken/blob/main/assets/lolxd.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
-## I'm a beginner Web developer
 
-
-Languages and Tools
+## Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=MYsql)
