@@ -10,4 +10,6 @@ Languages and Tools
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=MYsql)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2b%2b)
 
-VK:
+## VK:
+
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/1yuken)
