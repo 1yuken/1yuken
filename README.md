@@ -5,10 +5,12 @@
 
 ## Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=MYsql)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2b%2b)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ## Follow me:
