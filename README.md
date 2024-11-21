@@ -13,10 +13,6 @@
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/1yuken)
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/7yuken)
 
-<div>
-  <img width=390 src="https://github-readme-stats-1yuken.vercel.app/api?username=1yuken&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=390 src="https://github-readme-streak-stats-1yuken.vercel.app/?user=1yuken&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-1yuken.vercel.app/api/top-langs/?username=1yuken&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1yuken&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1yuken&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
