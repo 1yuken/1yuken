@@ -1,7 +1,4 @@
 ## I'm a Frontend Web Developer
-## For more detailed information, please click on the image below
-[![Header](https://github.com/1yuken/1yuken/blob/main/assets/lolxd.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
-
 
 ## Languages and Tools
 
