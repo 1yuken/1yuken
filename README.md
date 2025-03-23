@@ -1,8 +1,12 @@
-## I'm a Frontend Web Developer
+## Hi, I'm a Frontend Web Developer
+Currently I'm actively working with **Vue** and **Nuxt** to create convenient and productive web applications. Although these technologies are part of my stack, I'm open to experiments and new approaches in the frontend field.
 
+I'll be glad to new challenges and interesting projects.
+
+📩 You can contact me on Telegram: @yuken1
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,vue,nuxtjs,pinia,tailwind,vite,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,pinia,nuxt,ts,figma,ps,git,tailwind,sass,vite,webpack)](https://skillicons.dev)
 
 
 ## Follow me:
